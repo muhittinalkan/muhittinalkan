@@ -1,3 +1,6 @@
+.headtext {
+font-size:38px;
+}
  <div class="headtext" align="center">Hi 👋🏻,  I'm Muhittin.</div>
 <div align="center">A passionate front-end developer candidate from Turkey 🇹🇷 </div>
 
