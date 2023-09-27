@@ -1,6 +1,6 @@
- <div align="center" 
+ <p align="center" 
     font-size: 28px;
-">Hi 👋🏻,  I'm Muhittin.</div>
+">Hi 👋🏻,  I'm Muhittin.</p>
 <div align="center">A passionate front-end developer candidate from Turkey 🇹🇷 </div>
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=muhittinalkan&label=Profile%20views&color=0e75b6&style=flat" alt="muhittinalkan" /> </div>
