@@ -1,5 +1,5 @@
- ***<h2 align="center">Hi 👋🏻,  I'm Muhittin.</h2>
-**<h3 align="center">A passionate front-end developer candidate from Turkey 🇹🇷 </h3>
+ <div align="center">Hi 👋🏻,  I'm Muhittin.</div>
+<h3 align="center">A passionate front-end developer candidate from Turkey 🇹🇷 </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhittinalkan&label=Profile%20views&color=0e75b6&style=flat" alt="muhittinalkan" /> </p>
 
