@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhittinalkan&label=Profile%20views&color=0e75b6&style=flat" alt="muhittinalkan" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React and Tailwind CSS**
+- 🌱 I’m currently learning **Javascript, <br />React,<br /> and Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
